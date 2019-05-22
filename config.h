@@ -115,7 +115,7 @@ static const char *colorname[] = {
 };
 
 // opacity
-unsigned int alpha = 0xff;
+float alpha = 1;
 
 /*
  * Default colors (colorname index)
