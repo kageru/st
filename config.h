@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack:size=11:antialias=true:hintstyle=1:rgba=rgb:autohint=false:lcdfilter=lcddefault:dpi=109";
+static char *font = "Hack Nerd Font Mono:size=11:antialias=true:hintstyle=1:rgba=rgb:autohint=false:lcdfilter=lcddefault:dpi=109";
 static int borderpx = 2;
 
 /*
@@ -85,7 +85,7 @@ unsigned int tabspaces = 8;
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
 	/* 8 normal colors */
-	"#313132",
+	"#3c3136",
 	"#cc4444",
 	"#95bd41",
 	"#e1b153",
